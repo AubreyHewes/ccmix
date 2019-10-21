@@ -57,7 +57,8 @@ Specifies if a local mix database.dat file following the XCC format should be ge
 ## Acknowledgements
 
  * `ivosh-l` author of the original `tsunmix` on which `ccmix` is based.
- * @OlafvdSpek for his work reverse engineering the C&C files formats and the tools he has developed over the years to allow modding these classic games.
- * Joe Bostic and @CCHyper for pointing @OmniBlade at the reference source the header encryption is based upon.
+ * [Olaf van der Spek](https://github.com/OlafvdSpek) for his work reverse engineering the C&C files formats and the tools he has developed over the years to allow modding these classic games.
+ * Joe Bostic and [CCHyper](https://github.com/CCHyper) for pointing [OmniBlade](https://github.com/OmniBlade) at the reference source the header encryption is based upon.
  * The authors of the Crypto++ library `ccmix` now makes use of for handling the header encryption and SHA1 checksumming.
- * @OmniBlade Who forked the original project by `ivosh-l` and maintained https://github.com/OmniBlade/ccmix/
+ * [OmniBlade](https://github.com/OmniBlade) Who forked the original project by `ivosh-l` and maintained https://github.com/OmniBlade/ccmix/
+
